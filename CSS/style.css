@@ -1,0 +1,116 @@
+body {
+    font-family: 'Montserrat', Helvetica, Arial, serif;
+    text-align: center;
+    color: #40514e;
+    margin: 0;
+}
+
+p {
+    line-height: 2;
+}
+
+h1 {
+    font-family: 'satisfy';
+    font-size: 5.625rem;
+    font-weight: normal;
+    color: #11999E;
+}
+
+h2 {
+    color: #11999E;
+}
+
+h3 {
+    color: red;
+}
+
+hr {
+    border: dotted #9bdada 6px;
+    border-bottom: none;
+    width: 5%;
+    margin: 100px auto;
+}
+
+a {
+    font-family: 'Montserrat', Helvetica, Arial, serif;
+    color: #11999e;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+a:hover {
+    color: #eaf6f6;
+}
+
+.top-c {
+    background-color: #e4f9f5;
+    padding-top: 50px;
+    position: relative;
+    line-height: 1;
+    padding-bottom: 50px;
+}
+
+.skill-imgo {
+    width: 25%;
+    border-radius: 100%;
+    float: left;
+    margin-right: 10px;
+}
+
+.skill-imge {
+    width: 25%;
+    border-radius: 100%;
+    float: right;
+    margin-left: 10px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 80px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    top: 300px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 50px auto;
+    text-align: left;
+}
+
+.sanskar-img {
+    width: 20%;
+    border-radius: 100%;
+    margin-bottom: 10px;
+}
+
+.profile {
+    margin: 50px auto;
+}
+
+.skills {
+    margin: 50px auto;
+}
+
+.intro {
+    width: 30%;
+    margin: 0 auto;
+}
+
+.contact-me {
+    margin: 50px auto;
+    width: 30%;
+}
+
+.bottom-c {
+    background-color: #72e4d5;
+    padding: 50px 0 20px;
+}
+
+.copy {
+    font-size: 0.67em;
+}
